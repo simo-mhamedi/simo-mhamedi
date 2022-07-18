@@ -9,7 +9,10 @@
 
 - 🔭 I’m currently Study software development**
 
-- 🌱 I’m currently learning **Django web framwork.**
+- 🌱 I’m a **python django developer**
+
+- 🌱 I’m a **.net angular developer**
+
 
 - 👯 I’m looking to Job and collaborate on **OpenSource Projects**
 
