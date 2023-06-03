@@ -20,7 +20,7 @@
                     <img style="width:42px" src="https://img.icons8.com/?size=512&id=90519&format=png"/>
           </a>
           
-                    <img style="width:42px" src="https://img.icons8.com/?size=512&id=71257&format=png"/>
+          <img style="width:42px" src="https://img.icons8.com/?size=512&id=71257&format=png"/>
           
         
 </p>
