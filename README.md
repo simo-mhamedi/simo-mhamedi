@@ -19,11 +19,7 @@
           <a href="https://img.icons8.com/?size=512&id=90519&format=png" target="_blank"> <img style="width:42px" src="https://img.icons8.com/?size=512&id=90519&format=png"/></a>
 
      <a href="https://icons8.com/icon/71257/angularjs" target="_blank"> <img style="width:42px" src="https://img.icons8.com/?size=512&id=71257&format=png"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a>
-    <a href="https://sass-lang.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/>  </a> 
-    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> <img src="https://img.icons8.com/color/50/000000/asp.png"/> </a> 
-     <a href="https://neo4j.com/sandbox/?utm_program=row-prospecting&utm_source=google&utm_medium=cpc&utm_campaign=row-pm-sandbox&utm_adgroup=sandbox&utm_content=sandbox&gclid=CjwKCAiAzrWOBhBjEiwAq85QZ_pLRbk75rSTMnNyXQ3PzjrIjpgsGluV9R9oO-585cYHTwD7MLqCSRoCdZkQAvD_BwE" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-neo4j-a-graph-database-management-system-developed-logo-color-tal-revivo.png"/> </a> 
+
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
