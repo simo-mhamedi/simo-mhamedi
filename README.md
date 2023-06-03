@@ -16,8 +16,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="center">  
-          <a href="https://img.icons8.com/?size=512&id=90519&format=png" target="_blank"> <img style="width:42px" src="https://img.icons8.com/?size=512&id=90519&format=png"/</a>
-
+      
      <a href="https://icons8.com/icon/71257/angularjs" target="_blank"> <img style="width:42px" src="https://img.icons8.com/?size=512&id=71257&format=png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a>
