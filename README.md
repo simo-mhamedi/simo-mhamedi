@@ -7,18 +7,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Study software development**
+- 🔭 I am currently studying and working in software development **
 
-- 🌱 I’m a **python django developer**
-
-- 🌱 I’m a **.net angular developer**
-
-
-- 👯 I’m looking to Job and collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
-
-- 📫 How to reach me **Study software development**
+-  🌱 I’m a **Full stack Developer**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
@@ -31,8 +22,10 @@
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> <img src="https://img.icons8.com/color/50/000000/asp.png"/> </a> 
      <a href="https://neo4j.com/sandbox/?utm_program=row-prospecting&utm_source=google&utm_medium=cpc&utm_campaign=row-pm-sandbox&utm_adgroup=sandbox&utm_content=sandbox&gclid=CjwKCAiAzrWOBhBjEiwAq85QZ_pLRbk75rSTMnNyXQ3PzjrIjpgsGluV9R9oO-585cYHTwD7MLqCSRoCdZkQAvD_BwE" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-neo4j-a-graph-database-management-system-developed-logo-color-tal-revivo.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+        <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://icons8.com/icon/71257/angularjs"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
