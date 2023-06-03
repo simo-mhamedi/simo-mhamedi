@@ -19,8 +19,7 @@
           <a href="https://img.icons8.com/?size=512&id=90519&format=png" target="_blank">
                     <img style="width:42px" src="https://img.icons8.com/?size=512&id=90519&format=png"/></a>
           
-                <a href="https://img.icons8.com/?size=512&id=71257&format=png" target="_blank">
-                    <img style="width:42px" src="https://img.icons8.com/?size=512&id=71257&format=png"/></a>
+                    <img style="width:42px" src="https://img.icons8.com/?size=512&id=71257&format=png"/>
           
         
 </p>
