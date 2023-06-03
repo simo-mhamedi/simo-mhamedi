@@ -20,15 +20,14 @@
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a>
     <a href="https://sass-lang.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/>  </a> 
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> <img src="https://img.icons8.com/color/50/000000/asp.png"/> </a> 
-     <a href="https://neo4j.com/sandbox/?utm_program=row-prospecting&utm_source=google&utm_medium=cpc&utm_campaign=row-pm-sandbox&utm_adgroup=sandbox&utm_content=sandbox&gclid=CjwKCAiAzrWOBhBjEiwAq85QZ_pLRbk75rSTMnNyXQ3PzjrIjpgsGluV9R9oO-585cYHTwD7MLqCSRoCdZkQAvD_BwE" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-neo4j-a-graph-database-management-system-developed-logo-color-tal-revivo.png"/> </a> 
+  
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-        <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.microsoft.com/fr-fr/sql-server/sql-server-2019" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> </a> 
+    <a href="https://www.microsoft.com/fr-fr/sql-server/sql-server-2019" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql- server.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png"/> </a>
 </p>
